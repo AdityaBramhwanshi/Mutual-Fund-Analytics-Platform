@@ -1,0 +1,14 @@
+| Current                          | Rename To      |
+| -------------------------------- | -------------- |
+| 01_fund_master_cleaned           | Fund Master    |
+| 02_nav_history_cleaned           | NAV History    |
+| 03_aum_by_fund_house_cleaned     | AUM            |
+| 04_monthly_sip_inflows_cleaned   | SIP            |
+| 05_category_inflows_cleaned      | Category       |
+| 06_industry_folio_count_cleaned  | Folios         |
+| 07_scheme_performance_cleaned    | Performance    |
+| 08_investor_transactions_cleaned | Transactions   |
+| 09_portfolio_holdings_cleaned    | Holdings       |
+| 10_benchmark_indices_cleaned     | Benchmark      |
+| alpha_beta                       | Alpha Beta     |
+| fund_scorecard                   | Fund Scorecard |
